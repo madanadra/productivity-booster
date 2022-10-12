@@ -1,6 +1,6 @@
 # Productivity Booster App
 
-[https://madanadra.github.io/pba](https://madanadra.github.io/pba)
+[https://madanadra.github.io/productivity-booster](https://madanadra.github.io/productivity-booster)
 
 # Description
 
