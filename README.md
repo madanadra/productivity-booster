@@ -4,4 +4,4 @@
 
 # Description
 
-Productivity Booster is a web-based application that aims to increase productivity in carrying out a series of activities.
+Productivity Booster is a web-based application that aims to increase productivity in carrying out a series of tasks.
